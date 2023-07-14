@@ -41,7 +41,7 @@ class second_activity : AppCompatActivity() {
     private lateinit var fusedLocationProvider: FusedLocationProviderClient
     private val LOCATION_REQUEST_CODE = 101
 
-    private val apiKey="b190a0605344cc4f3af08d0dd473dd25"
+    private val apiKey="API_KEY"
 
     private var mInterstitialAd: InterstitialAd?=null
 
